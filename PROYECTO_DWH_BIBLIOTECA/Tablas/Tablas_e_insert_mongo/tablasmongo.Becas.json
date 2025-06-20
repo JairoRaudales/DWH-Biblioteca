@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "68081010b5d9323eca3b866f"
+  },
+  "id": 95,
+  "id_estudiante": 86,
+  "nombre_beca": "ullamco excepteur",
+  "tipo": "irure",
+  "monto": 7128,
+  "requisitos": "occaecat nisi eu"
+},
+{
+  "_id": {
+    "$oid": "68081010b5d9323eca3b8670"
+  },
+  "id": 93,
+  "id_estudiante": 71,
+  "nombre_beca": "excepteur velit",
+  "tipo": "qui",
+  "monto": 6615,
+  "requisitos": "ipsum consequat nisi"
+},
+{
+  "_id": {
+    "$oid": "68081010b5d9323eca3b8671"
+  },
+  "id": 72,
+  "id_estudiante": 100,
+  "nombre_beca": "cillum ut",
+  "tipo": "adipisicing",
+  "monto": 7746,
+  "requisitos": "velit et velit"
+},
+{
+  "_id": {
+    "$oid": "68081010b5d9323eca3b8672"
+  },
+  "id": 54,
+  "id_estudiante": 36,
+  "nombre_beca": "aliquip ex",
+  "tipo": "in",
+  "monto": 3070,
+  "requisitos": "Lorem exercitation dolore"
+},
+{
+  "_id": {
+    "$oid": "68081010b5d9323eca3b8673"
+  },
+  "id": 79,
+  "id_estudiante": 1,
+  "nombre_beca": "consequat cupidatat",
+  "tipo": "sunt",
+  "monto": 4183,
+  "requisitos": "quis sint ea"
+}]

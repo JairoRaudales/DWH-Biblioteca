@@ -1,0 +1,900 @@
+[{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b850a"
+  },
+  "id": 14,
+  "id_material": 90,
+  "nombre_grado": "QUONK",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b850b"
+  },
+  "id": 55,
+  "id_material": 16,
+  "nombre_grado": "HOPELI",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b850c"
+  },
+  "id": 2,
+  "id_material": 89,
+  "nombre_grado": "MELBACOR",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b850d"
+  },
+  "id": 74,
+  "id_material": 83,
+  "nombre_grado": "GEOFARM",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b850e"
+  },
+  "id": 55,
+  "id_material": 48,
+  "nombre_grado": "ACCIDENCY",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b850f"
+  },
+  "id": 72,
+  "id_material": 35,
+  "nombre_grado": "KOFFEE",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8510"
+  },
+  "id": 64,
+  "id_material": 36,
+  "nombre_grado": "GINKLE",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8511"
+  },
+  "id": 51,
+  "id_material": 46,
+  "nombre_grado": "TALKALOT",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8512"
+  },
+  "id": 9,
+  "id_material": 72,
+  "nombre_grado": "OTHERWAY",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8513"
+  },
+  "id": 27,
+  "id_material": 16,
+  "nombre_grado": "ZEROLOGY",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8514"
+  },
+  "id": 92,
+  "id_material": 93,
+  "nombre_grado": "ENDIPIN",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8515"
+  },
+  "id": 72,
+  "id_material": 82,
+  "nombre_grado": "CUJO",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8516"
+  },
+  "id": 49,
+  "id_material": 43,
+  "nombre_grado": "MINGA",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8517"
+  },
+  "id": 62,
+  "id_material": 68,
+  "nombre_grado": "VELOS",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8518"
+  },
+  "id": 54,
+  "id_material": 28,
+  "nombre_grado": "PHORMULA",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8519"
+  },
+  "id": 35,
+  "id_material": 82,
+  "nombre_grado": "ANIVET",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b851a"
+  },
+  "id": 17,
+  "id_material": 39,
+  "nombre_grado": "ENERSOL",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b851b"
+  },
+  "id": 70,
+  "id_material": 37,
+  "nombre_grado": "POLARIUM",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b851c"
+  },
+  "id": 68,
+  "id_material": 51,
+  "nombre_grado": "OPTYK",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b851d"
+  },
+  "id": 26,
+  "id_material": 68,
+  "nombre_grado": "VISUALIX",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b851e"
+  },
+  "id": 65,
+  "id_material": 70,
+  "nombre_grado": "BIOHAB",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b851f"
+  },
+  "id": 83,
+  "id_material": 38,
+  "nombre_grado": "EXOSIS",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8520"
+  },
+  "id": 13,
+  "id_material": 60,
+  "nombre_grado": "REMOTION",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8521"
+  },
+  "id": 97,
+  "id_material": 40,
+  "nombre_grado": "RAMEON",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8522"
+  },
+  "id": 35,
+  "id_material": 70,
+  "nombre_grado": "TYPHONICA",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8523"
+  },
+  "id": 43,
+  "id_material": 40,
+  "nombre_grado": "AMRIL",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8524"
+  },
+  "id": 69,
+  "id_material": 22,
+  "nombre_grado": "BOVIS",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8525"
+  },
+  "id": 13,
+  "id_material": 62,
+  "nombre_grado": "UNDERTAP",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8526"
+  },
+  "id": 72,
+  "id_material": 92,
+  "nombre_grado": "MOMENTIA",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8527"
+  },
+  "id": 10,
+  "id_material": 92,
+  "nombre_grado": "ENDIPINE",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8528"
+  },
+  "id": 52,
+  "id_material": 96,
+  "nombre_grado": "HIVEDOM",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8529"
+  },
+  "id": 59,
+  "id_material": 67,
+  "nombre_grado": "BRAINQUIL",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b852a"
+  },
+  "id": 86,
+  "id_material": 44,
+  "nombre_grado": "OPPORTECH",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b852b"
+  },
+  "id": 26,
+  "id_material": 52,
+  "nombre_grado": "SIGNIDYNE",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b852c"
+  },
+  "id": 31,
+  "id_material": 50,
+  "nombre_grado": "JIMBIES",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b852d"
+  },
+  "id": 73,
+  "id_material": 99,
+  "nombre_grado": "SKYBOLD",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b852e"
+  },
+  "id": 96,
+  "id_material": 65,
+  "nombre_grado": "ISOSTREAM",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b852f"
+  },
+  "id": 74,
+  "id_material": 10,
+  "nombre_grado": "CINESANCT",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8530"
+  },
+  "id": 32,
+  "id_material": 9,
+  "nombre_grado": "ENTOGROK",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8531"
+  },
+  "id": 70,
+  "id_material": 43,
+  "nombre_grado": "GINKOGENE",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8532"
+  },
+  "id": 1,
+  "id_material": 2,
+  "nombre_grado": "GLASSTEP",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8533"
+  },
+  "id": 17,
+  "id_material": 37,
+  "nombre_grado": "MUSAPHICS",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8534"
+  },
+  "id": 25,
+  "id_material": 83,
+  "nombre_grado": "FUTURIS",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8535"
+  },
+  "id": 39,
+  "id_material": 62,
+  "nombre_grado": "COMBOGEN",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8536"
+  },
+  "id": 22,
+  "id_material": 64,
+  "nombre_grado": "ACCEL",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8537"
+  },
+  "id": 95,
+  "id_material": 93,
+  "nombre_grado": "EARGO",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8538"
+  },
+  "id": 21,
+  "id_material": 4,
+  "nombre_grado": "FLYBOYZ",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8539"
+  },
+  "id": 92,
+  "id_material": 61,
+  "nombre_grado": "RAMJOB",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b853a"
+  },
+  "id": 100,
+  "id_material": 8,
+  "nombre_grado": "ZENSUS",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b853b"
+  },
+  "id": 100,
+  "id_material": 75,
+  "nombre_grado": "ENERFORCE",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b853c"
+  },
+  "id": 72,
+  "id_material": 48,
+  "nombre_grado": "BOINK",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b853d"
+  },
+  "id": 85,
+  "id_material": 37,
+  "nombre_grado": "TELLIFLY",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b853e"
+  },
+  "id": 32,
+  "id_material": 38,
+  "nombre_grado": "VICON",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b853f"
+  },
+  "id": 76,
+  "id_material": 27,
+  "nombre_grado": "BOILCAT",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8540"
+  },
+  "id": 99,
+  "id_material": 100,
+  "nombre_grado": "KNOWLYSIS",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8541"
+  },
+  "id": 1,
+  "id_material": 54,
+  "nombre_grado": "COMVEYER",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8542"
+  },
+  "id": 87,
+  "id_material": 78,
+  "nombre_grado": "NIKUDA",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8543"
+  },
+  "id": 11,
+  "id_material": 10,
+  "nombre_grado": "SULFAX",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8544"
+  },
+  "id": 94,
+  "id_material": 90,
+  "nombre_grado": "PHUEL",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8545"
+  },
+  "id": 79,
+  "id_material": 20,
+  "nombre_grado": "UTARA",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8546"
+  },
+  "id": 50,
+  "id_material": 2,
+  "nombre_grado": "SPRINGBEE",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8547"
+  },
+  "id": 16,
+  "id_material": 97,
+  "nombre_grado": "CENTREGY",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8548"
+  },
+  "id": 50,
+  "id_material": 30,
+  "nombre_grado": "BITTOR",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8549"
+  },
+  "id": 57,
+  "id_material": 87,
+  "nombre_grado": "NETERIA",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b854a"
+  },
+  "id": 52,
+  "id_material": 4,
+  "nombre_grado": "DIGIFAD",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b854b"
+  },
+  "id": 33,
+  "id_material": 3,
+  "nombre_grado": "STOCKPOST",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b854c"
+  },
+  "id": 37,
+  "id_material": 31,
+  "nombre_grado": "COMVEYOR",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b854d"
+  },
+  "id": 54,
+  "id_material": 71,
+  "nombre_grado": "EMTRAC",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b854e"
+  },
+  "id": 82,
+  "id_material": 49,
+  "nombre_grado": "QUARX",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b854f"
+  },
+  "id": 48,
+  "id_material": 67,
+  "nombre_grado": "MAXIMIND",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8550"
+  },
+  "id": 90,
+  "id_material": 81,
+  "nombre_grado": "AVIT",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8551"
+  },
+  "id": 31,
+  "id_material": 5,
+  "nombre_grado": "NURPLEX",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8552"
+  },
+  "id": 14,
+  "id_material": 72,
+  "nombre_grado": "DENTREX",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8553"
+  },
+  "id": 44,
+  "id_material": 43,
+  "nombre_grado": "ORBAXTER",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8554"
+  },
+  "id": 62,
+  "id_material": 26,
+  "nombre_grado": "COMVEX",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8555"
+  },
+  "id": 18,
+  "id_material": 39,
+  "nombre_grado": "COMTOUR",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8556"
+  },
+  "id": 96,
+  "id_material": 18,
+  "nombre_grado": "SHOPABOUT",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8557"
+  },
+  "id": 30,
+  "id_material": 37,
+  "nombre_grado": "TELEPARK",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8558"
+  },
+  "id": 68,
+  "id_material": 91,
+  "nombre_grado": "AUSTEX",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8559"
+  },
+  "id": 23,
+  "id_material": 92,
+  "nombre_grado": "LIQUIDOC",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b855a"
+  },
+  "id": 70,
+  "id_material": 1,
+  "nombre_grado": "RECOGNIA",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b855b"
+  },
+  "id": 81,
+  "id_material": 48,
+  "nombre_grado": "KONNECT",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b855c"
+  },
+  "id": 67,
+  "id_material": 53,
+  "nombre_grado": "MARKETOID",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b855d"
+  },
+  "id": 9,
+  "id_material": 46,
+  "nombre_grado": "MENBRAIN",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b855e"
+  },
+  "id": 27,
+  "id_material": 53,
+  "nombre_grado": "PYRAMIA",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b855f"
+  },
+  "id": 23,
+  "id_material": 31,
+  "nombre_grado": "BRAINCLIP",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8560"
+  },
+  "id": 40,
+  "id_material": 73,
+  "nombre_grado": "COASH",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8561"
+  },
+  "id": 94,
+  "id_material": 83,
+  "nombre_grado": "COMTEST",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8562"
+  },
+  "id": 40,
+  "id_material": 89,
+  "nombre_grado": "CENTREE",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8563"
+  },
+  "id": 97,
+  "id_material": 59,
+  "nombre_grado": "DOGNOST",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8564"
+  },
+  "id": 79,
+  "id_material": 61,
+  "nombre_grado": "XIIX",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8565"
+  },
+  "id": 30,
+  "id_material": 7,
+  "nombre_grado": "PLASMOS",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8566"
+  },
+  "id": 81,
+  "id_material": 26,
+  "nombre_grado": "ZAPHIRE",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8567"
+  },
+  "id": 31,
+  "id_material": 41,
+  "nombre_grado": "ZILLACOM",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8568"
+  },
+  "id": 10,
+  "id_material": 16,
+  "nombre_grado": "ZENTRY",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b8569"
+  },
+  "id": 92,
+  "id_material": 61,
+  "nombre_grado": "GENMEX",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b856a"
+  },
+  "id": 12,
+  "id_material": 80,
+  "nombre_grado": "COMTRAK",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b856b"
+  },
+  "id": 89,
+  "id_material": 21,
+  "nombre_grado": "TERRAGO",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b856c"
+  },
+  "id": 49,
+  "id_material": 84,
+  "nombre_grado": "APPLIDEC",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "68080c79b5d9323eca3b856d"
+  },
+  "id": 90,
+  "id_material": 98,
+  "nombre_grado": "CIRCUM",
+  "nivel": 9
+}]

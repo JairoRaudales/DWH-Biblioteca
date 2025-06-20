@@ -1,0 +1,1000 @@
+[{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85d4"
+  },
+  "id": 23,
+  "id_grado": 8,
+  "numero_aula": 15,
+  "edificio": "INSURESYS",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85d5"
+  },
+  "id": 98,
+  "id_grado": 9,
+  "numero_aula": 1,
+  "edificio": "EXOSPEED",
+  "capacidad": 4
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85d6"
+  },
+  "id": 65,
+  "id_grado": 1,
+  "numero_aula": 3,
+  "edificio": "SLAX",
+  "capacidad": 10
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85d7"
+  },
+  "id": 61,
+  "id_grado": 5,
+  "numero_aula": 6,
+  "edificio": "ARTWORLDS",
+  "capacidad": 15
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85d8"
+  },
+  "id": 87,
+  "id_grado": 9,
+  "numero_aula": 12,
+  "edificio": "WAZZU",
+  "capacidad": 27
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85d9"
+  },
+  "id": 46,
+  "id_grado": 5,
+  "numero_aula": 14,
+  "edificio": "ZENTIA",
+  "capacidad": 9
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85da"
+  },
+  "id": 95,
+  "id_grado": 1,
+  "numero_aula": 2,
+  "edificio": "BICOL",
+  "capacidad": 15
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85db"
+  },
+  "id": 27,
+  "id_grado": 6,
+  "numero_aula": 15,
+  "edificio": "SOFTMICRO",
+  "capacidad": 33
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85dc"
+  },
+  "id": 31,
+  "id_grado": 1,
+  "numero_aula": 13,
+  "edificio": "ORBOID",
+  "capacidad": 4
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85dd"
+  },
+  "id": 91,
+  "id_grado": 5,
+  "numero_aula": 10,
+  "edificio": "ENORMO",
+  "capacidad": 11
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85de"
+  },
+  "id": 72,
+  "id_grado": 4,
+  "numero_aula": 12,
+  "edificio": "NEWCUBE",
+  "capacidad": 31
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85df"
+  },
+  "id": 27,
+  "id_grado": 7,
+  "numero_aula": 9,
+  "edificio": "BIOHAB",
+  "capacidad": 14
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e0"
+  },
+  "id": 17,
+  "id_grado": 1,
+  "numero_aula": 10,
+  "edificio": "MIRACLIS",
+  "capacidad": 3
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e1"
+  },
+  "id": 44,
+  "id_grado": 6,
+  "numero_aula": 14,
+  "edificio": "ENDIPIN",
+  "capacidad": 13
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e2"
+  },
+  "id": 54,
+  "id_grado": 2,
+  "numero_aula": 10,
+  "edificio": "FUTURITY",
+  "capacidad": 35
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e3"
+  },
+  "id": 93,
+  "id_grado": 1,
+  "numero_aula": 8,
+  "edificio": "TRIPSCH",
+  "capacidad": 36
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e4"
+  },
+  "id": 60,
+  "id_grado": 4,
+  "numero_aula": 11,
+  "edificio": "GOLOGY",
+  "capacidad": 10
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e5"
+  },
+  "id": 37,
+  "id_grado": 1,
+  "numero_aula": 15,
+  "edificio": "GEEKWAGON",
+  "capacidad": 1
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e6"
+  },
+  "id": 68,
+  "id_grado": 3,
+  "numero_aula": 9,
+  "edificio": "MOREGANIC",
+  "capacidad": 19
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e7"
+  },
+  "id": 50,
+  "id_grado": 6,
+  "numero_aula": 14,
+  "edificio": "BLEENDOT",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e8"
+  },
+  "id": 62,
+  "id_grado": 4,
+  "numero_aula": 8,
+  "edificio": "BLUPLANET",
+  "capacidad": 15
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85e9"
+  },
+  "id": 84,
+  "id_grado": 2,
+  "numero_aula": 13,
+  "edificio": "ZOLARITY",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85ea"
+  },
+  "id": 5,
+  "id_grado": 8,
+  "numero_aula": 7,
+  "edificio": "ZILLAN",
+  "capacidad": 12
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85eb"
+  },
+  "id": 49,
+  "id_grado": 1,
+  "numero_aula": 1,
+  "edificio": "ENTHAZE",
+  "capacidad": 30
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85ec"
+  },
+  "id": 15,
+  "id_grado": 4,
+  "numero_aula": 1,
+  "edificio": "PYRAMIS",
+  "capacidad": 16
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85ed"
+  },
+  "id": 95,
+  "id_grado": 7,
+  "numero_aula": 6,
+  "edificio": "SHEPARD",
+  "capacidad": 26
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85ee"
+  },
+  "id": 10,
+  "id_grado": 4,
+  "numero_aula": 8,
+  "edificio": "ZILLADYNE",
+  "capacidad": 7
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85ef"
+  },
+  "id": 87,
+  "id_grado": 5,
+  "numero_aula": 2,
+  "edificio": "ZYTRAC",
+  "capacidad": 11
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f0"
+  },
+  "id": 35,
+  "id_grado": 7,
+  "numero_aula": 14,
+  "edificio": "ZENTURY",
+  "capacidad": 35
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f1"
+  },
+  "id": 48,
+  "id_grado": 8,
+  "numero_aula": 11,
+  "edificio": "GEOSTELE",
+  "capacidad": 23
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f2"
+  },
+  "id": 85,
+  "id_grado": 8,
+  "numero_aula": 4,
+  "edificio": "SKYPLEX",
+  "capacidad": 2
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f3"
+  },
+  "id": 8,
+  "id_grado": 3,
+  "numero_aula": 1,
+  "edificio": "ETERNIS",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f4"
+  },
+  "id": 17,
+  "id_grado": 2,
+  "numero_aula": 5,
+  "edificio": "COMBOGEN",
+  "capacidad": 29
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f5"
+  },
+  "id": 44,
+  "id_grado": 2,
+  "numero_aula": 11,
+  "edificio": "SENTIA",
+  "capacidad": 31
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f6"
+  },
+  "id": 62,
+  "id_grado": 7,
+  "numero_aula": 9,
+  "edificio": "RECRITUBE",
+  "capacidad": 32
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f7"
+  },
+  "id": 94,
+  "id_grado": 3,
+  "numero_aula": 4,
+  "edificio": "PARLEYNET",
+  "capacidad": 24
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f8"
+  },
+  "id": 92,
+  "id_grado": 8,
+  "numero_aula": 11,
+  "edificio": "ANDERSHUN",
+  "capacidad": 12
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85f9"
+  },
+  "id": 32,
+  "id_grado": 2,
+  "numero_aula": 5,
+  "edificio": "HONOTRON",
+  "capacidad": 12
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85fa"
+  },
+  "id": 36,
+  "id_grado": 3,
+  "numero_aula": 7,
+  "edificio": "AUSTECH",
+  "capacidad": 17
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85fb"
+  },
+  "id": 57,
+  "id_grado": 5,
+  "numero_aula": 7,
+  "edificio": "EXODOC",
+  "capacidad": 34
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85fc"
+  },
+  "id": 22,
+  "id_grado": 5,
+  "numero_aula": 8,
+  "edificio": "JETSILK",
+  "capacidad": 24
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85fd"
+  },
+  "id": 13,
+  "id_grado": 5,
+  "numero_aula": 2,
+  "edificio": "EARTHWAX",
+  "capacidad": 31
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85fe"
+  },
+  "id": 35,
+  "id_grado": 9,
+  "numero_aula": 11,
+  "edificio": "MEDALERT",
+  "capacidad": 18
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b85ff"
+  },
+  "id": 59,
+  "id_grado": 3,
+  "numero_aula": 1,
+  "edificio": "EBIDCO",
+  "capacidad": 11
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8600"
+  },
+  "id": 100,
+  "id_grado": 2,
+  "numero_aula": 6,
+  "edificio": "ONTALITY",
+  "capacidad": 17
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8601"
+  },
+  "id": 74,
+  "id_grado": 8,
+  "numero_aula": 11,
+  "edificio": "COMTOUR",
+  "capacidad": 4
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8602"
+  },
+  "id": 70,
+  "id_grado": 7,
+  "numero_aula": 12,
+  "edificio": "TEMORAK",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8603"
+  },
+  "id": 72,
+  "id_grado": 2,
+  "numero_aula": 10,
+  "edificio": "STELAECOR",
+  "capacidad": 26
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8604"
+  },
+  "id": 26,
+  "id_grado": 8,
+  "numero_aula": 15,
+  "edificio": "LIMOZEN",
+  "capacidad": 22
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8605"
+  },
+  "id": 91,
+  "id_grado": 2,
+  "numero_aula": 7,
+  "edificio": "MARVANE",
+  "capacidad": 7
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8606"
+  },
+  "id": 72,
+  "id_grado": 5,
+  "numero_aula": 11,
+  "edificio": "CINCYR",
+  "capacidad": 8
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8607"
+  },
+  "id": 85,
+  "id_grado": 9,
+  "numero_aula": 13,
+  "edificio": "OBLIQ",
+  "capacidad": 29
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8608"
+  },
+  "id": 99,
+  "id_grado": 9,
+  "numero_aula": 9,
+  "edificio": "DENTREX",
+  "capacidad": 19
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8609"
+  },
+  "id": 33,
+  "id_grado": 4,
+  "numero_aula": 3,
+  "edificio": "ECOLIGHT",
+  "capacidad": 12
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b860a"
+  },
+  "id": 39,
+  "id_grado": 3,
+  "numero_aula": 15,
+  "edificio": "RADIANTIX",
+  "capacidad": 24
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b860b"
+  },
+  "id": 38,
+  "id_grado": 6,
+  "numero_aula": 15,
+  "edificio": "FARMAGE",
+  "capacidad": 36
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b860c"
+  },
+  "id": 77,
+  "id_grado": 9,
+  "numero_aula": 12,
+  "edificio": "BEZAL",
+  "capacidad": 31
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b860d"
+  },
+  "id": 87,
+  "id_grado": 1,
+  "numero_aula": 6,
+  "edificio": "AEORA",
+  "capacidad": 10
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b860e"
+  },
+  "id": 72,
+  "id_grado": 8,
+  "numero_aula": 10,
+  "edificio": "MAZUDA",
+  "capacidad": 33
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b860f"
+  },
+  "id": 68,
+  "id_grado": 2,
+  "numero_aula": 12,
+  "edificio": "DOGTOWN",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8610"
+  },
+  "id": 76,
+  "id_grado": 3,
+  "numero_aula": 10,
+  "edificio": "MAGNINA",
+  "capacidad": 34
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8611"
+  },
+  "id": 44,
+  "id_grado": 3,
+  "numero_aula": 13,
+  "edificio": "QUARMONY",
+  "capacidad": 18
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8612"
+  },
+  "id": 55,
+  "id_grado": 4,
+  "numero_aula": 12,
+  "edificio": "DIGIFAD",
+  "capacidad": 15
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8613"
+  },
+  "id": 14,
+  "id_grado": 3,
+  "numero_aula": 14,
+  "edificio": "ZILPHUR",
+  "capacidad": 1
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8614"
+  },
+  "id": 33,
+  "id_grado": 2,
+  "numero_aula": 3,
+  "edificio": "PAPRIKUT",
+  "capacidad": 13
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8615"
+  },
+  "id": 56,
+  "id_grado": 8,
+  "numero_aula": 6,
+  "edificio": "APPLIDEC",
+  "capacidad": 11
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8616"
+  },
+  "id": 35,
+  "id_grado": 9,
+  "numero_aula": 10,
+  "edificio": "NIQUENT",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8617"
+  },
+  "id": 19,
+  "id_grado": 7,
+  "numero_aula": 13,
+  "edificio": "SPACEWAX",
+  "capacidad": 21
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8618"
+  },
+  "id": 85,
+  "id_grado": 3,
+  "numero_aula": 5,
+  "edificio": "QUILK",
+  "capacidad": 11
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8619"
+  },
+  "id": 70,
+  "id_grado": 8,
+  "numero_aula": 14,
+  "edificio": "VIASIA",
+  "capacidad": 1
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b861a"
+  },
+  "id": 1,
+  "id_grado": 1,
+  "numero_aula": 10,
+  "edificio": "DYNO",
+  "capacidad": 33
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b861b"
+  },
+  "id": 36,
+  "id_grado": 7,
+  "numero_aula": 7,
+  "edificio": "DIGIPRINT",
+  "capacidad": 25
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b861c"
+  },
+  "id": 55,
+  "id_grado": 1,
+  "numero_aula": 2,
+  "edificio": "COMVEYOR",
+  "capacidad": 35
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b861d"
+  },
+  "id": 34,
+  "id_grado": 4,
+  "numero_aula": 7,
+  "edificio": "CONJURICA",
+  "capacidad": 6
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b861e"
+  },
+  "id": 21,
+  "id_grado": 3,
+  "numero_aula": 6,
+  "edificio": "EXTRAGEN",
+  "capacidad": 3
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b861f"
+  },
+  "id": 91,
+  "id_grado": 2,
+  "numero_aula": 8,
+  "edificio": "XLEEN",
+  "capacidad": 27
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8620"
+  },
+  "id": 61,
+  "id_grado": 9,
+  "numero_aula": 12,
+  "edificio": "GLOBOIL",
+  "capacidad": 5
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8621"
+  },
+  "id": 39,
+  "id_grado": 3,
+  "numero_aula": 2,
+  "edificio": "QUANTALIA",
+  "capacidad": 26
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8622"
+  },
+  "id": 35,
+  "id_grado": 4,
+  "numero_aula": 4,
+  "edificio": "KATAKANA",
+  "capacidad": 29
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8623"
+  },
+  "id": 5,
+  "id_grado": 2,
+  "numero_aula": 10,
+  "edificio": "GLASSTEP",
+  "capacidad": 8
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8624"
+  },
+  "id": 4,
+  "id_grado": 4,
+  "numero_aula": 9,
+  "edificio": "ZAGGLES",
+  "capacidad": 16
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8625"
+  },
+  "id": 40,
+  "id_grado": 6,
+  "numero_aula": 3,
+  "edificio": "IMAGEFLOW",
+  "capacidad": 26
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8626"
+  },
+  "id": 92,
+  "id_grado": 1,
+  "numero_aula": 2,
+  "edificio": "TSUNAMIA",
+  "capacidad": 9
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8627"
+  },
+  "id": 93,
+  "id_grado": 7,
+  "numero_aula": 14,
+  "edificio": "SENSATE",
+  "capacidad": 30
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8628"
+  },
+  "id": 43,
+  "id_grado": 4,
+  "numero_aula": 12,
+  "edificio": "CYTREX",
+  "capacidad": 19
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8629"
+  },
+  "id": 67,
+  "id_grado": 9,
+  "numero_aula": 16,
+  "edificio": "CIPROMOX",
+  "capacidad": 23
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b862a"
+  },
+  "id": 31,
+  "id_grado": 9,
+  "numero_aula": 4,
+  "edificio": "ORBAXTER",
+  "capacidad": 29
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b862b"
+  },
+  "id": 90,
+  "id_grado": 1,
+  "numero_aula": 9,
+  "edificio": "GRAINSPOT",
+  "capacidad": 7
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b862c"
+  },
+  "id": 40,
+  "id_grado": 6,
+  "numero_aula": 10,
+  "edificio": "ACLIMA",
+  "capacidad": 14
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b862d"
+  },
+  "id": 65,
+  "id_grado": 2,
+  "numero_aula": 16,
+  "edificio": "SNORUS",
+  "capacidad": 11
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b862e"
+  },
+  "id": 92,
+  "id_grado": 8,
+  "numero_aula": 11,
+  "edificio": "ISOLOGICS",
+  "capacidad": 23
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b862f"
+  },
+  "id": 3,
+  "id_grado": 5,
+  "numero_aula": 4,
+  "edificio": "MALATHION",
+  "capacidad": 29
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8630"
+  },
+  "id": 65,
+  "id_grado": 9,
+  "numero_aula": 5,
+  "edificio": "ZILIDIUM",
+  "capacidad": 15
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8631"
+  },
+  "id": 82,
+  "id_grado": 9,
+  "numero_aula": 12,
+  "edificio": "GLUID",
+  "capacidad": 7
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8632"
+  },
+  "id": 40,
+  "id_grado": 5,
+  "numero_aula": 10,
+  "edificio": "PLASMOS",
+  "capacidad": 26
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8633"
+  },
+  "id": 51,
+  "id_grado": 7,
+  "numero_aula": 1,
+  "edificio": "ZOSIS",
+  "capacidad": 17
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8634"
+  },
+  "id": 78,
+  "id_grado": 8,
+  "numero_aula": 3,
+  "edificio": "HIVEDOM",
+  "capacidad": 3
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8635"
+  },
+  "id": 55,
+  "id_grado": 6,
+  "numero_aula": 5,
+  "edificio": "NETILITY",
+  "capacidad": 32
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8636"
+  },
+  "id": 44,
+  "id_grado": 7,
+  "numero_aula": 9,
+  "edificio": "ISONUS",
+  "capacidad": 28
+},
+{
+  "_id": {
+    "$oid": "68080d2fb5d9323eca3b8637"
+  },
+  "id": 14,
+  "id_grado": 3,
+  "numero_aula": 13,
+  "edificio": "GEOFORM",
+  "capacidad": 6
+}]

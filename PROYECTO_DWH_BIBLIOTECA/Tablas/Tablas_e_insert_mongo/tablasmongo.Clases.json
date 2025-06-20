@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b867d"
+  },
+  "id": 86,
+  "id_asignatura": 88,
+  "id_grado": 23,
+  "id_profesor": 4,
+  "id_horario": 30,
+  "id_aula": 23
+},
+{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b867e"
+  },
+  "id": 39,
+  "id_asignatura": 82,
+  "id_grado": 33,
+  "id_profesor": 36,
+  "id_horario": 94,
+  "id_aula": 1
+},
+{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b867f"
+  },
+  "id": 85,
+  "id_asignatura": 88,
+  "id_grado": 18,
+  "id_profesor": 97,
+  "id_horario": 73,
+  "id_aula": 97
+},
+{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b8680"
+  },
+  "id": 35,
+  "id_asignatura": 9,
+  "id_grado": 62,
+  "id_profesor": 94,
+  "id_horario": 2,
+  "id_aula": 96
+},
+{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b8681"
+  },
+  "id": 76,
+  "id_asignatura": 17,
+  "id_grado": 39,
+  "id_profesor": 76,
+  "id_horario": 13,
+  "id_aula": 63
+},
+{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b8682"
+  },
+  "id": 65,
+  "id_asignatura": 16,
+  "id_grado": 6,
+  "id_profesor": 28,
+  "id_horario": 6,
+  "id_aula": 41
+},
+{
+  "_id": {
+    "$oid": "680810d8b5d9323eca3b8683"
+  },
+  "id": 66,
+  "id_asignatura": 14,
+  "id_grado": 80,
+  "id_profesor": 24,
+  "id_horario": 44,
+  "id_aula": 78
+}]

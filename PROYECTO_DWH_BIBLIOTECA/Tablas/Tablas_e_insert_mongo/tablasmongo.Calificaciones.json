@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8693"
+  },
+  "id": 36,
+  "nota": 82,
+  "fecha": "2016-10-23",
+  "id_estudiante": 89,
+  "id_asignatura": 31
+},
+{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8694"
+  },
+  "id": 76,
+  "nota": 82,
+  "fecha": "2023-10-17",
+  "id_estudiante": 23,
+  "id_asignatura": 1
+},
+{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8695"
+  },
+  "id": 84,
+  "nota": 83,
+  "fecha": "2018-10-26",
+  "id_estudiante": 75,
+  "id_asignatura": 63
+},
+{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8696"
+  },
+  "id": 14,
+  "nota": 53,
+  "fecha": "2017-12-20",
+  "id_estudiante": 76,
+  "id_asignatura": 93
+},
+{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8697"
+  },
+  "id": 49,
+  "nota": 17,
+  "fecha": "2021-12-22",
+  "id_estudiante": 35,
+  "id_asignatura": 75
+},
+{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8698"
+  },
+  "id": 76,
+  "nota": 29,
+  "fecha": "2018-11-10",
+  "id_estudiante": 43,
+  "id_asignatura": 40
+},
+{
+  "_id": {
+    "$oid": "680817e5b5d9323eca3b8699"
+  },
+  "id": 83,
+  "nota": 39,
+  "fecha": "2024-07-08",
+  "id_estudiante": 78,
+  "id_asignatura": 16
+}]

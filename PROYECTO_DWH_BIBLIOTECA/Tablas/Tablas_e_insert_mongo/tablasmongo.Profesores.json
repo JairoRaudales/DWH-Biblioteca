@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "68080dc2b5d9323eca3b8639"
+  },
+  "id": 49,
+  "nombre": "Phelps",
+  "apellido": "Avery",
+  "telefono": "+1 (987) 498-2486",
+  "especialidad": "nulla"
+},
+{
+  "_id": {
+    "$oid": "68080dc2b5d9323eca3b863a"
+  },
+  "id": 82,
+  "nombre": "Collier",
+  "apellido": "Perkins",
+  "telefono": "+1 (939) 512-2727",
+  "especialidad": "cupidatat"
+},
+{
+  "_id": {
+    "$oid": "68080dc2b5d9323eca3b863b"
+  },
+  "id": 53,
+  "nombre": "Blackwell",
+  "apellido": "Beard",
+  "telefono": "+1 (887) 580-2345",
+  "especialidad": "aliqua"
+},
+{
+  "_id": {
+    "$oid": "68080dc2b5d9323eca3b863c"
+  },
+  "id": 3,
+  "nombre": "Beach",
+  "apellido": "Osborn",
+  "telefono": "+1 (801) 543-3017",
+  "especialidad": "cillum"
+},
+{
+  "_id": {
+    "$oid": "68080dc2b5d9323eca3b863d"
+  },
+  "id": 61,
+  "nombre": "Dunlap",
+  "apellido": "Sanders",
+  "telefono": "+1 (992) 495-2450",
+  "especialidad": "mollit"
+}]

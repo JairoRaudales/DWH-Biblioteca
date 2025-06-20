@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b863f"
+  },
+  "id": 98,
+  "id_profesor": 97,
+  "nombre_asignatura": "sit"
+},
+{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b8640"
+  },
+  "id": 43,
+  "id_profesor": 19,
+  "nombre_asignatura": "excepteur"
+},
+{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b8641"
+  },
+  "id": 25,
+  "id_profesor": 61,
+  "nombre_asignatura": "adipisicing"
+},
+{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b8642"
+  },
+  "id": 50,
+  "id_profesor": 50,
+  "nombre_asignatura": "labore"
+},
+{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b8643"
+  },
+  "id": 82,
+  "id_profesor": 55,
+  "nombre_asignatura": "irure"
+},
+{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b8644"
+  },
+  "id": 11,
+  "id_profesor": 61,
+  "nombre_asignatura": "enim"
+},
+{
+  "_id": {
+    "$oid": "68080e04b5d9323eca3b8645"
+  },
+  "id": 52,
+  "id_profesor": 9,
+  "nombre_asignatura": "sit"
+}]

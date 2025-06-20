@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "68080f27b5d9323eca3b8653"
+  },
+  "id": 76,
+  "id_estudiante": 36,
+  "nombre": "Jamie",
+  "apellido": "Osborn",
+  "fecha_nacimiento": "2014-09-22",
+  "direccion": "291 Waldorf Court, Dotsero, Connecticut, 8368"
+},
+{
+  "_id": {
+    "$oid": "68080f27b5d9323eca3b8654"
+  },
+  "id": 13,
+  "id_estudiante": 77,
+  "nombre": "Valencia",
+  "apellido": "Wilkins",
+  "fecha_nacimiento": "2016-07-26",
+  "direccion": "734 Pacific Street, Hebron, Oklahoma, 424"
+},
+{
+  "_id": {
+    "$oid": "68080f27b5d9323eca3b8655"
+  },
+  "id": 11,
+  "id_estudiante": 18,
+  "nombre": "Coffey",
+  "apellido": "Gates",
+  "fecha_nacimiento": "2020-09-22",
+  "direccion": "222 Hicks Street, Diaperville, Utah, 1298"
+},
+{
+  "_id": {
+    "$oid": "68080f27b5d9323eca3b8656"
+  },
+  "id": 45,
+  "id_estudiante": 56,
+  "nombre": "Diana",
+  "apellido": "Roberts",
+  "fecha_nacimiento": "2014-05-20",
+  "direccion": "208 Butler Place, Clara, Alabama, 5637"
+},
+{
+  "_id": {
+    "$oid": "68080f27b5d9323eca3b8657"
+  },
+  "id": 82,
+  "id_estudiante": 54,
+  "nombre": "Bonita",
+  "apellido": "Wilder",
+  "fecha_nacimiento": "2016-08-03",
+  "direccion": "901 Conway Street, Muse, Wyoming, 7816"
+},
+{
+  "_id": {
+    "$oid": "68080f27b5d9323eca3b8658"
+  },
+  "id": 1,
+  "id_estudiante": 66,
+  "nombre": "Herman",
+  "apellido": "Chandler",
+  "fecha_nacimiento": "2025-03-16",
+  "direccion": "360 Cameron Court, Lindisfarne, North Carolina, 279"
+}]

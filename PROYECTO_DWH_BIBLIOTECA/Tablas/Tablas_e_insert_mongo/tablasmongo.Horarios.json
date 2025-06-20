@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b8675"
+  },
+  "id": 5,
+  "id_estudiante": 22,
+  "dia": 23,
+  "hora_inicio": 14,
+  "hora_fin": 27
+},
+{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b8676"
+  },
+  "id": 19,
+  "id_estudiante": 10,
+  "dia": 6,
+  "hora_inicio": 58,
+  "hora_fin": 93
+},
+{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b8677"
+  },
+  "id": 36,
+  "id_estudiante": 93,
+  "dia": 2,
+  "hora_inicio": 38,
+  "hora_fin": 62
+},
+{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b8678"
+  },
+  "id": 47,
+  "id_estudiante": 5,
+  "dia": 24,
+  "hora_inicio": 47,
+  "hora_fin": 47
+},
+{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b8679"
+  },
+  "id": 2,
+  "id_estudiante": 19,
+  "dia": 28,
+  "hora_inicio": 55,
+  "hora_fin": 61
+},
+{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b867a"
+  },
+  "id": 49,
+  "id_estudiante": 88,
+  "dia": 25,
+  "hora_inicio": 80,
+  "hora_fin": 3
+},
+{
+  "_id": {
+    "$oid": "68081091b5d9323eca3b867b"
+  },
+  "id": 54,
+  "id_estudiante": 28,
+  "dia": 9,
+  "hora_inicio": 55,
+  "hora_fin": 46
+}]

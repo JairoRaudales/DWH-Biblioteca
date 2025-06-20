@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba808074"
+  },
+  "nombre_grado": "Primero",
+  "nivel": "Básico"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba808075"
+  },
+  "nombre_grado": "Segundo",
+  "nivel": "Básico"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba808076"
+  },
+  "nombre_grado": "Tercero",
+  "nivel": "Básico"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba808077"
+  },
+  "nombre_grado": "Cuarto",
+  "nivel": "Básico"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba808078"
+  },
+  "nombre_grado": "Quinto",
+  "nivel": "Básico"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba808079"
+  },
+  "nombre_grado": "Sexto",
+  "nivel": "Básico"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba80807a"
+  },
+  "nombre_grado": "Séptimo",
+  "nivel": "Secundaria"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba80807b"
+  },
+  "nombre_grado": "Octavo",
+  "nivel": "Secundaria"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba80807c"
+  },
+  "nombre_grado": "Noveno",
+  "nivel": "Secundaria"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba80807d"
+  },
+  "nombre_grado": "Décimo",
+  "nivel": "Secundaria"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba80807e"
+  },
+  "nombre_grado": "Undécimo",
+  "nivel": "Bachillerato"
+},
+{
+  "_id": {
+    "$oid": "68080ab9ae9d6b36ba80807f"
+  },
+  "nombre_grado": "Duodécimo",
+  "nivel": "Bachillerato"
+}]
